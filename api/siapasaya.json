@@ -1,3 +1,11 @@
 {
-  "message": "Hello, world!"
+  "bio": "Hi, I'm Pulp Jetty, as passionate as they come.",
+  "profile_image": "https://via.placeholder.com/150",
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "MyArsips",
+      "link": "https://github.com/pulpjetty/MyArsips"
+    }
+  ]
 }
