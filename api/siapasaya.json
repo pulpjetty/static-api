@@ -7,5 +7,15 @@
       "description": "Aplikasi ini mengakses data melalui API Laravel yang terhubung dengan web. Laravel berperan sebagai sistem untuk panel admin, sementara Flutter digunakan untuk membangun aplikasi mobile, sehingga memudahkan interaksi yang lancar dengan API Laravel.",
       "link": "https://github.com/pulpjetty/MyArsips"
     }
+    {
+      "name": "Static API",
+      "description": "Ini adalah data JSON yang kami gunakan dalam berbagai proyek, termasuk salah satunya adalah proyek portofolio yang tersedia di GitHub.",
+      "link": "https://github.com/pulpjetty/static-api"
+    }
+    {
+      "name": "Portfolio",
+      "description": "Selamat datang di portofolio saya! Di sini, saya menyimpan berbagai proyek yang sudah saya kerjakan. Beberapa proyek menggunakan data JSON yang diambil dari static-api untuk mempermudah proses pengembangan.",
+      "link": "https://github.com/pulpjetty/portfolio"
+    }
   ]
 }
