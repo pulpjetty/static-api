@@ -3,7 +3,7 @@
   "profile_image": "https://pulpjetty.github.io/static-api/api/pj-logo.png",
   "projects": [
     {
-      "name": "MyArsips",
+      "name": "Integrasi Aplikasi Flutter dengan API SuratWeb untuk Pengelolaan Data Surat",
       "description": "Aplikasi ini mengakses data melalui API Laravel yang terhubung dengan web. Laravel berperan sebagai sistem untuk panel admin, sementara Flutter digunakan untuk membangun aplikasi mobile, sehingga memudahkan interaksi yang lancar dengan API Laravel.",
       "link": "https://github.com/pulpjetty/MyArsips"
     },
@@ -16,6 +16,11 @@
       "name": "Portfolio",
       "description": "Selamat datang di portofolio saya! Di sini, saya menyimpan berbagai proyek yang sudah saya kerjakan. Beberapa proyek menggunakan data JSON yang diambil dari static-api untuk mempermudah proses pengembangan.",
       "link": "https://github.com/pulpjetty/portfolio"
+    },
+    {
+      "name": "Aplikasi Manajemen Surat Digital Menggunakan Laravel dan API Restful",
+      "description": "Aplikasi Manajemen Surat Digital berbasis Laravel dan API Restful adalah solusi berbasis web yang dirancang untuk mengelola seluruh proses pembuatan, pengelolaan, dan pengarsipan surat secara digital dalam suatu organisasi atau instansi.",
+      "link": "https://github.com/pulpjetty/suratweb"
     }
   ]
 }
